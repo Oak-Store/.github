@@ -12,6 +12,7 @@
 - [Aquiles Trindade](https://github.com/aquilesTrindade)
 - [Agel SK](https://github.com/aglsk)
 - [Suay Dev](https://github.com/devsuay)
+- [Skinvent](https://github.com/skinvent)
 - And you soon!
 
 # Oak Projects
@@ -20,6 +21,7 @@
 - **Description**: Another web app store
 - **Status**: In development
 - **Responsible**: [AGL SK](https://github.com/aglsk)
+  [Skinvent](https://github.com/skinvent)
 <a href="https://github.com/Oak-Store/Oak-Web/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Oak-Store/Oak-Web" />
 </a>
@@ -28,6 +30,7 @@
 - **Description**: Well, you may already know Oak Web, right? Oak Android is the Android version of it!
 - **Status**: In slow development...
 - **Responsible**: [Aquiles Trindade](https://github.com/aquilesTrindade)
+[Skinvent](https://github.com/skinvent)
 <a href="https://github.com/Oak-Store/Oak-Android/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Oak-Store/Oak-Android" />
 </a>
