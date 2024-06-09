@@ -30,3 +30,10 @@ Examples:
 - `feat: New "Action" app category`
 - `fix: Fix App Screen Width in Tablets`
 - `refactor: Reformat HomeFragment.kt`
+
+Secrets for Compile on GitHub Actions: 
+(You need to create these secrets so that GitHub Actions compiles smoothly )
+
+- `API_FILE:` value in this file: [api_keys.xml](https://github.com/Oak-Store/.github/tree/main/profile/api_keys.xml)
+- `TELEGRAM_TO:` -1002174635702
+- `TELEGRAM_TOKEN:` 7317910591:AAFOu_t046Ie-MUSpudwznsZ2o306L-QfaQ
