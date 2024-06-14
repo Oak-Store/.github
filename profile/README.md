@@ -19,7 +19,8 @@
 - **Description**: Well, you may already know Oak Web, right? Oak Android is the Android version of it!
 - **Status**: In slow development...
 - **Maintainer**: [Aquiles Trindade](https://github.com/aquilesTrindade)
-- 
+
+
 ### Contribute
 [Se Contribution rules ](https://github.com/Oak-Store/Oak-Store/tree/data/CONTRIBUTING.md)
 
