@@ -7,14 +7,6 @@
    In this repository you will find all Oak Web and Android updates!
 </div>
 
-# Members
-
-- [Aquiles Trindade](https://github.com/aquilesTrindade)
-- [Agel SK](https://github.com/aglsk)
-- [Suay Dev](https://github.com/devsuay)
-- [Skinvent](https://github.com/skinvent)
-- And you soon!
-
 # Oak Projects
 
 ### [Oak Web](https://github.com/Oak-Store/Oak-Web)
@@ -22,18 +14,17 @@
 - **Status**: In development
 - **Maintainer**: [AGL SK](https://github.com/aglsk)
 
-<a href="https://github.com/Oak-Store/Oak-Web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Oak-Store/Oak-Web" />
-</a>
 
 ### [Oak Android](https://github.com/Oak-Store/Oak-Android)
 - **Description**: Well, you may already know Oak Web, right? Oak Android is the Android version of it!
 - **Status**: In slow development...
 - **Maintainer**: [Aquiles Trindade](https://github.com/aquilesTrindade)
-<a href="https://github.com/Oak-Store/Oak-Android/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Oak-Store/Oak-Android" />
-</a>
-
+- 
 ### Contribute
+[Se Contribution rules ](https://github.com/Oak-Store/Oak-Store/tree/data/CONTRIBUTING.md)
 
-[Contribution rules ](https://github.com/Oak-Store/.github/tree/main/profile/CONTRIBUTING.md)
+### Contributors
+[See Oak Contributors](https://github.com/Oak-Store/Oak-Store/tree/data/CONTRIBUTORS.md)
+
+### Main Devs
+[See Oak Contributors](https://github.com/Oak-Store/Oak-Store/tree/data/MAINDEVS.md)
